@@ -4,7 +4,7 @@
  I successfully executed an end-to-end project on real-time stock market data analysis. Utilizing a combination of technologies including Python, Amazon Web Services (AWS), Apache Kafka, Glue, Athena, and SQL, I was able to develop a simulation app that generated a live stream of data from a csv file, stored it as individual files in an AWS S3 bucket, and queried the data using AWS in-house tools such as Glue Crawler and Athena.
 
 ## Architecture:  
-<img src="Architecture.jpg">
+<img src="Architecture.jpeg">
 
 ## Technologies Used:  
 * **Python**  
